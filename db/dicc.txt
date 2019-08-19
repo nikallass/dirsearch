@@ -6944,6 +6944,7 @@ VERSIONS.txt
 video-js.swf
 view-source
 view.php
+view_doc.html
 vignettes/
 vmailadmin/
 vorod
