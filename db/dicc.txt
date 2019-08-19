@@ -2343,9 +2343,9 @@ bbpre
 bbs/
 bbs/admin/login
 bbs/admin_index.asp
+bea_wls_cluster_internal
 bea_wls_deployment_internal
 bea_wls_deployment_internal/DeploymentService
-bea_wls_cluster_internal
 bea_wls_diagnostics
 bea_wls_internal
 bea_wls_internal/a2e2gp2r2/x.jsp
@@ -7152,6 +7152,7 @@ WS_FTP.LOG
 WS_FTP.log
 WS_FTP/
 WS_FTP/Sites/ws_ftp.ini
+ws_utc/config.do
 wsadmin.traceout
 wsadmin.valout
 wsadminListener.out
